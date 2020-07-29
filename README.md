@@ -1,1 +1,1 @@
-# finance
+# Financial Algorithm for Trading Signals
